@@ -1,7 +1,8 @@
 Hello, I am Sahil Jasuja
 
 I am mastered in PYTHON, JAVASCRIPT, and PHP 
-I know many technologies and frameworks like REACT , REACT NATIVE, FLUTTER, MERN STACK, DJANGO, SELENIUM, ANDROID BASICS, 
+
+I know many technologies and frameworks like  REACT , REACT NATIVE, FLUTTER, MERN STACK, DJANGO, SELENIUM, ANDROID BASICS, 
 TKINTER , HTML, CSS, C/C++, JAVA BASICS, PANDAS, MATPLOTLIB AND MANY OTHER PYTHON LIBRARIES 
 
 FOR ANY FREELANCING PROJECT CONTACT ME AT contact@sahiljasuja.ml or visit my website https://www.sahiljasuja.ml/
