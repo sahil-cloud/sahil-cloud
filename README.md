@@ -5,7 +5,7 @@ I am mastered in PYTHON, JAVASCRIPT, and PHP
 I know many technologies and frameworks like  REACT , REACT NATIVE, FLUTTER, MERN STACK, DJANGO, SELENIUM, ANDROID BASICS, 
 TKINTER , HTML, CSS, C/C++, JAVA BASICS, PANDAS, MATPLOTLIB, CHARTJS, TYPEDJS AND MANY OTHER PYTHON AND JAVASCRIPT LIBRARIES 
 
-FOR ANY FREELANCING PROJECT CONTACT ME AT contact@sahiljasuja.ml or visit my website https://sahiljasuja.ml/
+FOR ANY FREELANCING PROJECT CONTACT ME AT contact@sahiljasuja.ml or visit my website https://sahil-cloud.github.io/sahiljasuja
 
 - 🔭 I’m currently working on mobile app development
 - 🌱 I’m currently learning CyberSecurity and Machine Learning
